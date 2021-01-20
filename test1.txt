@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D69F-3A9A
+
+ Directory of C:\Users\HP\OneDrive\Desktop\MyProject
+
+20-01-2021  19:03    <DIR>          .
+20-01-2021  19:03    <DIR>          ..
+20-01-2021  19:03                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  405,248,593,920 bytes free
